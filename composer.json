@@ -1,0 +1,19 @@
+{
+    "name": "alexi/unitaire",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4" : {
+            "" : "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexis-pdvn",
+            "email": "alexispodevin1@gmail.com"
+        }
+    ]
+}
+
